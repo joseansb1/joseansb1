@@ -1,4 +1,8 @@
-### Hi there 👋
+### sobre mi 👋
+
+eu sou ou jose e estou estudando no github na diciplina pensamento conputacional 
+
+
 
 <!--
 **joseansb1/joseansb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
